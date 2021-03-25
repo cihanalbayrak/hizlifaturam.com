@@ -1,0 +1,101 @@
+<div id="ozellikler" class="page-section bg-dark fg-white">
+      <div class="container">
+        <h1 class="text-center">e-Fatura Programı Özellikleri</h1>
+
+        <div class="row justify-content-center mt-5">
+
+
+          <div class="col-md-6 col-lg-3 py-3">
+            <div class="card card-body border-0 bg-transparent text-center wow zoomIn">
+                <a class="nav-link" href="index.html" >
+                 <div class="mb-3">
+                <img src="../assets/img/icons/coins.svg" alt="">
+              </div>
+              <p class="fs-large" style="">Arşivleme</p>
+            <!--  <p class="fs-small fg-grey">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p> -->
+                </a>
+
+            </div>
+          </div>
+
+
+          <div class="col-md-6 col-lg-3 py-3">
+            <div class="card card-body border-0 bg-transparent text-center wow zoomIn" data-wow-delay="200ms">
+                <a class="nav-link" href="index.html" >
+              <div class="mb-3">
+                <img src="../assets/img/icons/laptop.svg" alt="">
+              </div>
+              <p class="fs-large">Taslak Hazırlama</p>
+    <!--  <p class="fs-small fg-grey">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p> --> </a>       </div>
+          </div>
+
+
+          <div class="col-md-6 col-lg-3 py-3">
+            <div class="card card-body border-0 bg-transparent text-center wow zoomIn" data-wow-delay="400ms">
+                <a class="nav-link" href="index.html" >
+              <div class="mb-3">
+                <img src="../assets/img/icons/rocket.svg" alt="">
+              </div>
+              <p class="fs-large">Gönderme</p>
+    <!--  <p class="fs-small fg-grey">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p> -->  </a>      </div>
+          </div>
+
+
+              <div class="col-md-6 col-lg-3 py-3">
+            <div class="card card-body border-0 bg-transparent text-center wow zoomIn" data-wow-delay="600ms">
+                <a class="nav-link" href="index.html" >
+              <div class="mb-3">
+                <img src="../assets/img/icons/testimony.svg" alt="">
+              </div>
+              <p class="fs-large">Görüntüleme & Yazdırma</p>
+    <!--  <p class="fs-small fg-grey">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p> -->  </a>      </div>
+          </div>
+        </div> 
+
+          <div class="row justify-content-center mt-5">
+               <div class="col-md-6 col-lg-3 py-3">
+            <div class="card card-body border-0 bg-transparent text-center wow zoomIn" data-wow-delay="800ms">
+                <a class="nav-link" href="index.html" >
+              <div class="mb-3">
+                <img src="../assets/img/icons/support.svg" alt="">
+              </div>
+              <p class="fs-large">Raporlama Sistemi</p>
+    <!--  <p class="fs-small fg-grey">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p> -->   </a>     </div>
+          </div>
+
+
+              <div class="col-md-6 col-lg-3 py-3">
+            <div class="card card-body border-0 bg-transparent text-center wow zoomIn" data-wow-delay="1000ms">
+                <a class="nav-link" href="index.html" >
+              <div class="mb-3">
+                <img src="../assets/img/icons/laptop.svg" alt="">
+              </div>
+              <p class="fs-large">Fatura Modülü</p>
+    <!--  <p class="fs-small fg-grey">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p> -->   </a>     </div>
+          </div> 
+
+
+               <div class="col-md-6 col-lg-3 py-3">
+            <div class="card card-body border-0 bg-transparent text-center wow zoomIn" data-wow-delay="1000ms">
+                <a class="nav-link" href="index.html" >
+              <div class="mb-3">
+                <img src="../assets/img/icons/promotion.svg" alt="">
+              </div>
+              <p class="fs-large">Stok Takibi Modülü</p>
+    <!--  <p class="fs-small fg-grey">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p> -->   </a>     </div>
+          </div> 
+
+
+          <div class="col-md-6 col-lg-3 py-3">
+            <div class="card card-body border-0 bg-transparent text-center wow zoomIn" data-wow-delay="1200ms">
+                <a class="nav-link" href="index.html" >
+              <div class="mb-3">
+                <img src="../assets/img/icons/coins.svg" alt="">
+              </div>
+              <p class="fs-large">Cari Kart Modülü</p>
+    <!--  <p class="fs-small fg-grey">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p> -->   </a>     </div>
+          </div>    
+        </div>
+
+      </div>
+    </div>
